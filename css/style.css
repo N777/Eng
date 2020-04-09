@@ -84,9 +84,10 @@
   .tleft{
   
     width: 100%;
-    box-shadow: black;
+    box-shadow: none;
   }
   .tright{
     width: 100%;
+    box-shadow: none;
   }
 }
