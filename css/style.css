@@ -25,6 +25,47 @@
   background-image: url("../img/field_image_chelyabinsk.jpg");
   background-position: 50% 50%;
 }
+#img2{
+  background-image: url("../img/eD2BVtZi_9g.jpg");
+  background-position: 50% 50%;
+}
+#img3{
+  color: antiquewhite;
+  background-image: url("../img/udfQdc9Vatw.jpg");
+  background-position: 50% 50%;
+}
+#img4{
+  background-image: url("../img/mOuSMMQnxoU.jpg");
+  background-position: 50% 85%;
+}
+#img5{
+  background-image: url("../img/NExeEhYlLNY.jpg");
+  background-position: 50% 50%;
+}
+#img6{
+  background-image: url("../img/YTSj33vyfx0.jpg");
+  background-position: 50% 50%;
+}
+#img7{
+  background-image: url("../img/3mA_dvVNNMs.jpg");
+  background-position: 50% 50%;
+}
+#img8{
+  background-image: url("../img/c56alXFRw5A.jpg");
+  background-position: 50% 50%;
+  color: lavender;
+}
+#img9{
+  background-image: url("../img/ZuzMA0y4qms.jpg");
+  background-position: 50% 50%;
+  color: lavender;
+}
+#img10{
+  background-image: url("../img/231331-nature.jpg");
+  background-position: 50% 40%;
+  color: lavender;
+}
+
 .clear{
   filter: blur(0px);
 }
